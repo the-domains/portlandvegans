@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PortlandVegans]]></title>
+        <description><![CDATA[PortlandVegans]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Jun 2016 06:59:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vegan Haul - Episode 1 (Whole Foods)]]></title>
+            <description><![CDATA[<article><h1>Vegan Haul - Episode 1 (Whole Foods)</h1><p>What would you eat if you went Vegan? Here are a few ideas. This is our haul for the week of 6/14/16. More to come!!! Subscribe if you like!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e38a18ae2eb8717c1447314b54492d3415b59bc3.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1A-gHLyuJ5E</link>
+            <guid isPermaLink="false">9439043a-e11e-442b-92cc-485648729c6c</guid>
+            <pubDate>Wed, 15 Jun 2016 06:59:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
