@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[PortlandVegans]]></title>
         <description><![CDATA[PortlandVegans]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/portlandvegans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 06:59:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 16 Jun 2016 07:41:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/portlandvegans/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Vegan Story]]></title>
+            <description><![CDATA[<article><h1>Our Vegan Story</h1><p>The story behind our road to Veganism.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60e03329006cf7ca276647a93cca2c68/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FkKHP3lvyCpo%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/kKHP3lvyCpo</link>
+            <guid isPermaLink="false">741af913-87e3-4c33-86e2-b5b5793e8a15</guid>
+            <pubDate>Thu, 16 Jun 2016 07:41:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vegan Haul - Episode 1 (Whole Foods)]]></title>
             <description><![CDATA[<article><h1>Vegan Haul - Episode 1 (Whole Foods)</h1><p>What would you eat if you went Vegan? Here are a few ideas. This is our haul for the week of 6/14/16. More to come!!! Subscribe if you like!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e38a18ae2eb8717c1447314b54492d3415b59bc3.jpg"></article>]]></description>
