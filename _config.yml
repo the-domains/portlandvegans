@@ -1,6 +1,6 @@
 name: PortlandVegans
 favicon: null
-layout_spectrum: 0.767
+layout_spectrum: 0.15652
 typography_spectrum: 0.1016709462273866
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0.9284223311115056
   saturation: 0.5124562880955637
   rhythmicContrast: 0.7500553831923753
